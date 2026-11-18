@@ -4,6 +4,12 @@ A React frontend for a full-stack Student Management System.
 
 The application provides a user interface for authentication and managing student records through a Spring Boot REST API.
 
+## 🎥 Project Demonstration
+
+Watch my 3-minute walkthrough of the full-stack Student Management System, demonstrating React, Spring Boot, JWT authentication, and student CRUD operations.
+
+▶️ [Watch Project Demo on YouTube](https://youtu.be/lMu2n0j4WE8)
+
 ## Features
 
 - User registration
